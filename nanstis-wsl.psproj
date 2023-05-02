@@ -3,8 +3,11 @@
   <FileID>5679fc1b-adf1-4f13-8849-9403891ce3a7</FileID>
   <ProjectType>0</ProjectType>
   <RememberPowerShellVersion>True</RememberPowerShellVersion>
-  <PowerShellVersion>Local Machine - PowerShell V5 (64 Bit)</PowerShellVersion>
-  <Folders />
+  <PowerShellVersion>Local Machine - PowerShell V7 (64 Bit)</PowerShellVersion>
+  <Folders>
+    <Folder>Data</Folder>
+    <Folder>Data\Icons</Folder>
+  </Folders>
   <Files>
     <File Build="0">Startup.pss</File>
     <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>

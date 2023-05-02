@@ -38,22 +38,43 @@ function Parse-Wsl()
 {
 	param (
 		[Parameter(Mandatory = $true)]
-		[String]$Options
+		[String]$Options,
+		[Parameter(Mandatory = $true)]
+		[Int]$SkipLines
 	)
 	
 	$collection = @()
 	$expression = "wsl " + $Options
 	
-	((Invoke-Expression $expression | Select-Object -Skip 8) -replace "\x00", "") `
+	((Invoke-Expression $expression | Select-Object -Skip $SkipLines) -replace "\x00", "") `
 	| Where-Object { -not [string]::IsNullOrWhiteSpace($_) } `
 	| ForEach-Object { $collection += ($_.Split(" ", [StringSplitOptions]::RemoveEmptyEntries)[0]) }
 	
 	$($collection)
 }
 
+function Wsl-Object()
+{
+	param (
+		[Parameter(Mandatory = $true)]
+		[String]$Options,
+		[Parameter(Mandatory = $true)]
+		[Int]$SkipLines
+	)
+	
+	$collection = @()
+	$expression = "wsl " + $Options
+	
+	((Invoke-Expression $expression | Select-Object -Skip $SkipLines) -replace "\x00", "") `
+	| Where-Object { -not [string]::IsNullOrWhiteSpace($_) } `
+	| ForEach-Object { $collection += ($_.Split(" ", [StringSplitOptions]::RemoveEmptyEntries)) }
+	
+	$($collection)
+}
+
 function Get-State()
 {
-	$((Parse-Wsl -Options "-l").Count)
+	$((Parse-Wsl -Options "-l" -Skip 1).Count)
 }
 
 
