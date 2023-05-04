@@ -78,6 +78,7 @@ function Get-State()
 }
 
 
+
 [System.Drawing.Icon]$Icon = [System.Drawing.Icon]::ExtractAssociatedIcon($(Get-Icon -IconName "app"))
 [System.Drawing.Size]$Size = New-Object System.Drawing.Size(1000, 500)
 
