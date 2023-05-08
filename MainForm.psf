@@ -1068,26 +1068,27 @@ EEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBC
 CCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh
 hBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQ
 QgghhBBCCCGEEEIIIYQQQvh/zL/8y/8BlJXwUplm89AAAAAASUVORK5CYII=</Preview>
-  <Form>RiR+OS1nLxYAACODCAAAAAAABADVmG1v2jAQgL9P2n+I8jlqIbxLgFSg1arRrWpY9xE5yQ28Bhs5Di/79XMc
-UgIJjUOBdSJCGO5857vn7DPt7/ZvcLjf/fxJ09rRQOPrOXR0a+1zmF39xMSlS//qjrJZ9G5oWT8Z
-2jMwH1PSqV6Vwpeh9QOPBww6BALOkGdoj4HtYecrrEf0BUjHbjRQzanVy61KFUrNlq4RNBOWHxAm
-4Zy65kyx5zIhqvcp4Yx6vi49Fb4+MjoHxtcbnZuAU8tBHgzwDEjohxBtGlq50b6ORfNUH6gLevdO
-WMrV6XsYCLfwH6HQqLYMzazXc5UeEJtgondrhrZ5clW+iXe9GwckV9ziiPFH6mMuAqB3+8JHYJbD
-AEiu7ghWPDKlZdu6XYjpNsJDitytX+Nw2L6WAlnS1pQuSUJcjvfk89nrBZxTcnb6nmBGFxAZe4vA
-DJCIM6VM747o3NCe8GSa5iitNKQOirJVr5iC12pTQSkmqWpom0dBKWIpuTwFpQjxckkEtFJSkB8h
-+564sBLFpyItmYtcUhD/4cMz9gPkWXztQQ85L33qyYizIFM/CaEoWedld/1j+d0eiNcRiR+OS1nb
-/wDLmtm8AJaJ1Z2VyvRxcIhK6dGFoEys/jRMDrHPnzEsz07lQBhi2A5CVvzY6jv4HMIvrk7pF+yC
-BZ4IhkT1Dnm+yj6yhdts1AXc6aP7pGxnxkiZ8motdNFU8XGLuYq0ALdPZ3MRCdsDQSCH+xmaQA+m
-aIHDhBwMZ5Lge0HXjYj/QugfWOo4KbNLdsZkr/nsTxGZgPvWpPuy7y4bZIN30ZqRFo+uF4Usy+5W
-gnRoP9pT6FHmiqYx3MwEAngFbmVwRE3VzGJFVZJFpbKZp4tKBlG5oJpl4V6rUDmlG/VDp0bSrXQL
-/UGBDCN6DIhF0doyUpZ72nkJeV2VMhmNSuaF8S0yVE6BiAyx3bJwfAIqwgl7dHURLja2ipGxm+hK
-wUQXPV8Tbiqn2qwKE2alUK7T0sVTJ05cm14id8mNKDZaLImhR4hzTCa3BIkWwT2yzusqmTxRexWv
-tCAHSvv7KweZOO/83yHbEnClfGYbE/s5zhL9Ty6kA7okHkXuMXfSvZOgdObb5a6rxeAoeMEsq7cK
-G6cudMfcjUHuNTMxiD/63b9k2VlPLxYAAA==</Form>
-  <Code><![CDATA[$WindowStateEnum = New-Object System.Windows.Forms.FormWindowState
+  <Form>u/1n9tgf0xUAACODCAAAAAAABADNl21v2jAQgL9P2n+I8jlqIbxLgFRg1arRrWpY97Fykht4NTZyHF726+c4
+UAIJjUOBVUQRhjvf+e65s93+4f4BTwTdz58Mox0PDLGaQcd0VoGA6dUvTH22CK5uGZ/Gb8vI+ssy
+noAHmNFO9aoUfSyjHxIRcuhQCAVHxDIeQpdg7xusRuwFaMdtNFDNq9XLrUoVSs2WaVA0lZbvEabR
+nKbhTTDxuRQ1+4wKzkhgKk+lrw+czYCL1VrnJhTM8RCBAZ4CjfyQok3LKDfa1xvRPNV75oPZvZWW
+cnX6BAMVDv4rFRrVlmXY9Xqu0j3iY0zNbs0y1k+uynf5NrubgOSKOwJx8cACLGQAzG5f+gjc8TgA
+zdUdwVLEpoxsW1/mcrq18JAhf+vXczRsXyuBLGlnwhY0Ia7Ge/L57PVCIRg9O32PMGVziI29RWAG
+SNSbMG52R2xmGY94PElzlFYaMg/F2apXbMlrtamhtCGpahnrR0MpZim5PA2lGPFySQa0UtKQHyH3
+jvqwlMWnI62Yi13SEP8ZwBMOQkQcsSLQQ95LnxEVcR5m6ichlCXrveyu/1n9tgfidUzih+NS1fZ/
+wLJmNy+AZWJ1Z6UyvR0colJ5dCEoE6s/DZNDHIgnDIuzUzmQhjh2w4iVYGP1HXwO4bfQp/Qr9sEB
+IoOhUL1FJNDpI1u47UZdwp3euk/KdmaMtCmv1iIXbR0ft5jrSEtw+2w6k5FwCUgCBdxN0Rh6MEFz
+HCXkYDiTBN9Jum5k/OdS/8BSn5Myu2RnTPaaz/4E0TH4b026L/vuskEukIvWjLJ4dL1oZFmdbhVI
+h/rRnkKPcV8eGqNmJhHAS/ArgyNqqmYXK6qSKiqdZp4uKhVE7YJqlqV7rULllD6oH9o1km6lj9Af
+FMgooseAWBStLSNl1dPOS8jrqrTJaFQyL4xvkaGzC8RkyHbLo/EJqIgm7LHlRbhY2ypGxm6iKwUT
+XXR/TbipnWq7Kk3YlUK5TksXT53ccV12idwlG9HGaLEkRh4hITAdf6FIHhH8I+u8rpPJEx2vNist
+yIFWf3/lII3zh700DtiCEob8Y+6Ne926dOYb4K6rxRJY8BJY1t/O105d6B64G4Pcq2BisPkadP8B
+c2ZLkNMVAAA=</Form>
+  <Code><![CDATA[Import-Module StartLayout
+$WindowStateEnum = New-Object System.Windows.Forms.FormWindowState
 $ListViewEnum = New-Object System.Windows.Forms.View
 
-$InitialState = Get-State
+$global:InitialState = Get-State
 
 
 $MainForm_Load = {
@@ -1128,85 +1129,48 @@ $DistributionsListView_ItemActivate = {
 
 
 $DownloadButton_Click = {
-	
-	$ToInstall = $DistributionComboBox.SelectedValue
-	$UserName = $NameTextBox.Text
-	
-	
-	$Command = "wsl.exe --install $ToInstall"
-	Write-Host $Command
-	
-	$Process = Start-Process wt -Verb RunAs -ArgumentList "pwsh.exe -NoExit -Command $Command" -PassThru
-	
-	$Process = Start-Process wsl -ArgumentList "--install", $ToInstall -PassThru
-	$CreateUserScript = {
-		wsl -d $ToInstall -e bash -c "useradd -m -s /bin/bash $UserName"
-	}
-	
-	Hold-Then -Process $Process -Action $CreateUserScript
-	
-}
-
-$DistributionComboBox_SelectedIndexChanged = {
-
+	Download-Distribution -Distribution $DistributionComboBox.SelectedValue
 }
 
 $StartButton_Click={
-	
 	Start-Distribution -Distribution $DistributionLabel.Text
-	
 }
 
 $RemoveButton_Click={
-	
 	Remove-Distribution -Distribution $DistributionLabel.Text
-	
 }
 
 $DistributionsListView_ItemSelectionChanged=[System.Windows.Forms.ListViewItemSelectionChangedEventHandler]{
-
 	if ($_.Item.Selected)
 	{
 		$DistributionLabel.Text = $_.Item.Text
 	}
-	
 }
 
-$buttonCallChildForm_Click = {
-	
-	if ((Show-ChildForm_psf) -eq 'OK')
-	{
-		
-	}
-	
-}
-
-function Start-Distribution()
+function Start-Distribution([string]$Distribution)
 {
-	param
-	(
-		[parameter(Mandatory = $true)]
-		[String]$Distribution
-	)
-	
 	$Command = "wsl -d $Distribution"
-	Write-Host $Command
 	Process-Wsl -Command $Command
+	
+	Write-Host $Command
 }
 
-function Remove-Distribution()
+function Remove-Distribution([string]$Distribution)
 {
-	param
-	(
-		[parameter(Mandatory = $true)]
-		[String]$Distribution
-	)
-	
 	$Command = "wsl --unregister $Distribution"
-	
 	$Process = Process-Wsl -Command $Command -IsHidden $true
 	Hold-Then -Process $Process
 	
+	Write-Host $Command
+}
+
+function Download-Distribution([string]$Distribution)
+{
+	$Command = "wsl --install $Distribution"
+	$Process = Process-Wsl -Command $Command -IsHidden $true
+	Hold-Then -Process $Process
+	
+	Write-Host $Command
 }
 
 function Update-View()
@@ -1223,55 +1187,34 @@ function Update-View()
 		})
 }
 
-function Hold-Then()
-{
-	param
-	(
-		[parameter(Mandatory = $true)]
-		[System.Diagnostics.Process]$Process,
-		[parameter(Mandatory = $false)]
-		[ScriptBlock]$Action
-	)
-	
+function Hold-Then([System.Diagnostics.Process]$Process)
+{	
 	while ($Process)
 	{
+		$State = (Get-State)
+		Write-Host "Ini $global:InitialState, State $State"
 		Start-Sleep -Seconds 1
-		Write-Host (Get-State)
-		if ($InitialState -ne (Get-State))
+		if ($global:InitialState -ne $State)
 		{
-			if ($Action)
-			{
-				& $Action
-			}
-			
-			$InitialState = (Get-State)
-			$Process.Kill()
+			Write-Host "Update"
+			$global:InitialState = $State
 			Update-View
+
 			break
 		}
 	}
-		
-	Write-Host (Get-State)
 }
 
-function Process-Wsl()
+function Process-Wsl([string]$Command, [boolean]$IsHidden = $false)
 {
-	param
-	(
-		[parameter(Mandatory = $true)]
-		[String]$Command,
-		[parameter(Mandatory = $false)]
-		[boolean]$IsHidden = $false
-	)
+	$windowStyle = [System.Diagnostics.ProcessWindowStyle]::Normal
 	
-	$WindowStyle = [System.Diagnostics.ProcessWindowStyle]::Normal
 	if ($IsHidden)
 	{
-		$WindowStyle = [System.Diagnostics.ProcessWindowStyle]::Hidden
+		$windowStyle = [System.Diagnostics.ProcessWindowStyle]::Hidden
 	}
 	
-	$(Start-Process wt -Verb RunAs -ArgumentList "pwsh.exe -Command $Command" -WindowStyle $WindowStyle  -PassThru)
-	
+	$(Start-Process wt -Verb RunAs -ArgumentList "pwsh -Command $Command" -WindowStyle $windowStyle -PassThru)
 }
 
 
