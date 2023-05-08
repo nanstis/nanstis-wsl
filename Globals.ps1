@@ -83,3 +83,4 @@ function Get-State()
 [System.Drawing.Size]$Size = New-Object System.Drawing.Size(1000, 500)
 
 [String]$Title = "WSL2 Builder"
+[String]$Distribution = "Ubuntu"
