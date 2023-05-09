@@ -53,34 +53,13 @@ function Parse-Wsl()
 	$($collection)
 }
 
-function Wsl-Object()
-{
-	param (
-		[Parameter(Mandatory = $true)]
-		[String]$Options,
-		[Parameter(Mandatory = $true)]
-		[Int]$SkipLines
-	)
-	
-	$collection = @()
-	$expression = "wsl " + $Options
-	
-	((Invoke-Expression $expression | Select-Object -Skip $SkipLines) -replace "\x00", "") `
-	| Where-Object { -not [string]::IsNullOrWhiteSpace($_) } `
-	| ForEach-Object { $collection += ($_.Split(" ", [StringSplitOptions]::RemoveEmptyEntries)) }
-	
-	$($collection)
-}
-
 function Get-State()
 {
 	$((Parse-Wsl -Options "-l" -Skip 1).Count)
 }
 
-
-
 [System.Drawing.Icon]$Icon = [System.Drawing.Icon]::ExtractAssociatedIcon($(Get-Icon -IconName "app"))
-[System.Drawing.Size]$Size = New-Object System.Drawing.Size(1000, 500)
+[System.Drawing.Size]$Size = New-Object System.Drawing.Size(800, 500)
 
 [String]$Title = "WSL2 Builder"
 [String]$Distribution = "Ubuntu"
