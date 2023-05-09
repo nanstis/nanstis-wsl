@@ -59,7 +59,7 @@ function Get-State()
 }
 
 [System.Drawing.Icon]$Icon = [System.Drawing.Icon]::ExtractAssociatedIcon($(Get-Icon -IconName "app"))
-[System.Drawing.Size]$Size = New-Object System.Drawing.Size(800, 500)
+[System.Drawing.Size]$Size = New-Object System.Drawing.Size(1080, 720)
 
 [String]$Title = "WSL2 Builder"
 [String]$Distribution = "Ubuntu"
